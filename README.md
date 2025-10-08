@@ -1,4 +1,4 @@
-# pair-project
+# Pair-project
 Sports Car Data Analysis
 This repository contains a Jupyter Notebook that performs an exploratory data analysis on a dataset of sports cars. The analysis includes visualizations and summary statistics to understand various aspects of the data, such as price trends, engine characteristics, and manufacturer performance.
 
